@@ -40,3 +40,7 @@ make start
 ```
 make stop
 ```
+
+## TODO
+- Add CI/CD with GitHub Actions
+- Config WebStorm node interpreter
