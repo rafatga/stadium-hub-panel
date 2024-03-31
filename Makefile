@@ -3,7 +3,7 @@ ifneq (,$(wildcard ./.env))
     export
 endif
 
-# This command is only executed once to create the basic symfony stuff.
+# This command is only executed once to create the basic nuxt stuff.
 # I left it here to show you how I install my projects. Everything through docker.
 init:
 	@docker run -it --rm \
